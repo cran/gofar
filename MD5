@@ -1,0 +1,16 @@
+6d05dd29a14f7d1888eb7588a151fa8e *DESCRIPTION
+44c2336e0430e51b4f65e83eaf953772 *NAMESPACE
+56762a250db7704c5af00edbc2e33c05 *R/RcppExports.R
+92b3a3bb3cbe8c5d11be672ea3ed24d2 *R/data.R
+0f3c117d1f79dc275ba82db5954e86d8 *R/gofar.R
+1fb7495fab924e23cdd9a4981fb92bb9 *R/miscfun.R
+5dcf591ea654b876ec500093cb5c238f *data/simulate_gofar.RData
+83dbe5a6242268abd7a6263b8b6055f0 *man/gofar_control.Rd
+f395829d8d80da31dd44675c9fff2fdb *man/gofar_p.Rd
+e6c24e87c87eebe2496e96e12d303fb1 *man/gofar_s.Rd
+47bd0fe311f1ff9c7444c20528d74f59 *man/gofar_sim.Rd
+ff46f78384dd916ada8b1ccfb5897dd5 *man/simulate_gofar.Rd
+d90e9f8fb1b2371a19d83e0f12e043b8 *src/Makevars
+2a6f9e9e044a78154d3cfda5936d6f48 *src/Makevars.win
+fa4862c81e11fc6691a9efc2d72fc70e *src/RcppExports.cpp
+abdd585c772d913ac88d00654e6d1920 *src/gcure.cpp
